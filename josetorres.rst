@@ -2,10 +2,14 @@
 Frikades
 ########
 
-A qui no li agrada compartir frikades?
+Hola Soy José!
 
 
 aquesta historia
 ================
 
 jhfdshgjhjg
+
+.. image:: lobo.jpg
+
+
